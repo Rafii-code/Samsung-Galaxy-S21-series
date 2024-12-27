@@ -1,4 +1,4 @@
-# samsung galaxy S21, S21+, and S21 Ultra
+# Samsung Galaxy S21, S21+, and S21 Ultra
 <html lang="en">
 <head>
     <meta charset="UTF-8">
