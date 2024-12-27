@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Samsung Galaxy S21 Series - [Your Name]</title>
+    <title>Samsung Galaxy S21 Series - [RAFII HAMIS]</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -197,7 +197,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 Samsung Galaxy Series | Page by [Your Name] | All rights reserved</p>
+        <p>&copy; 2024 Samsung Galaxy Series | Page by [RAFII HAMIS] | All rights reserved</p>
     </footer>
 </body>
 </html>
