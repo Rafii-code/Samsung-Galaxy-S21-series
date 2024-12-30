@@ -196,7 +196,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 Samsung Galaxy Series | Page by [RAFII HAMIS] | All rights reserved</p>
+        <p> 2024 Samsung Galaxy S21Series | Page by [RAFII HAMIS] </p>
     </footer>
 </body>
 </html>
