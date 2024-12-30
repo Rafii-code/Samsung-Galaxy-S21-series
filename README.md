@@ -192,6 +192,28 @@
                 <li>Front Camera: 40MP</li>
                 <li>Battery: 5,000mAh</li>
             </ol>
+            <P>The S21 series came up with a variety of unique colour</p>
+            <h>Galaxy S21</h>
+            <ol>
+            <li>Phantom violet</li>
+            <li>Phantom grey</li>
+            <li>Phantom white</li>
+            <li>Phantom pink</li>
+            </ol>
+            <h>Galaxy S21+</h>
+            <ol>
+            <li>Phantom violet</li>
+            <li>Phantom grey</li>
+            <li>Phantom white</li>
+            <li>Phantom silver</li>
+            </ol>
+            <h>Galaxy S21 Ultra</h>
+            <ol>
+            <li>Phantom black</li>
+            <li>Phantom silver</li>
+            <li>Phantom titanium</li>
+            </ol>
+
         </section>
     </main>
 
